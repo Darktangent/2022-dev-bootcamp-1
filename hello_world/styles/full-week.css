@@ -1,0 +1,16 @@
+h1 {
+  font-size: 48px;
+  color: rgb(71, 62, 62);
+}
+a {
+  background-color: rgb(167, 1, 78);
+  color: white;
+  border-radius: 4px;
+}
+
+ol {
+  list-style: none;
+}
+/* li {
+  list-style: none;
+} */
